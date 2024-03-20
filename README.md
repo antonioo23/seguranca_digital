@@ -1,1 +1,1 @@
-# seguranca_digital
+# PROJETO_GERADOR_DE_SENHAS
